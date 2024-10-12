@@ -1,0 +1,6 @@
+matplotlib
+music21
+seaborn
+pandas
+numpy
+scipy
