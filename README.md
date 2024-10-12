@@ -1,12 +1,6 @@
 # DM_Assignement1
 Assignement 1 of DH-401 EPFL course
 
-# Installation 
-
-## Cloning
-
-git clone --recursive https://github.com/JorisMonnet/DM_Assignement1.git
-
 ## Requirements
 
 pip install -r requirements.txt
