@@ -1,6 +1,9 @@
 # DM_Assignement1
 Assignement 1 of DH-401 EPFL course
 
+# Abstract
+In the realm of music generation, the emulation of human performance through computational algorithms poses a formidable challenge, encompassing nuances of timing, expression, and pitch distribution. This assignment delves into the multifaceted problem of generating musical performances using computational methods, leveraging techniques from digital musicology. Through modeling approaches and empirical analyses, it seeks to unravel the underlying mechanisms governing musical expression and performance. The task A explores timing functions for specific pieces and general models across diverse time signatures, showcasing versatility and effectiveness. Results demonstrate variations in timing and pitch distribution across composers, eras, and performers. Insights from the analyses (Task B), coupled with class concepts, shed light on expressive timing, note onset distribution, and pitch characteristics, offering a deeper understanding of musical expression.
+
 ## Requirements
 
 pip install -r requirements.txt
